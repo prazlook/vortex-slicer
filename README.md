@@ -15,7 +15,7 @@ Check out the project in action and learn how to use it:
 
 [![Watch the video](https://github.com/jyjblrd/S4_Slicer/blob/main/thumnail.jpeg?raw=true)](https://youtu.be/M51bMMVWbC8?si=pfud7bHgjYDnO2_z)
 
-👉 [Watch the YouTube Video for more details!](https://youtu.be/M51bMMVWbC8?si=pfud7bHgjYDnO2_z)
+[<img src="https://user-images.githubusercontent.com/1535101/96931251-53678500-1490-11eb-9278-a319615e3282.png" width="22" height="22"> Watch the YouTube Video for more details!](https://youtu.be/M51bMMVWbC8?si=pfud7bHgjYDnO2_z) [Watch the YouTube Video for more details!](https://youtu.be/M51bMMVWbC8?si=pfud7bHgjYDnO2_z)
 
 ## 🤝 Community & Support
 Need help or want to share your results?
