@@ -24,7 +24,7 @@ Please use the [Discussions tab](https://github.com/prazlook/vortex-slicer/discu
 ## ⚖️ License & Credits
 This project is a fork of the original **S4 Slicer** by Joshua Bird.
 
-- **Original Author:** Joshua Bird ([jyjblrd](https://github.com/jyjblrd/S4_Slicer))
+- **Original Author:** Joshua Bird ([jyjblrd](https://github.com/jyjblrd))
 - **License:** GPL-3.0 (See the LICENSE file for details)
 
 ### Bibtex Citation:
