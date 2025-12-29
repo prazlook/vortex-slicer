@@ -27,6 +27,7 @@ This project is a fork of the original **S4 Slicer** by Joshua Bird.
 ## 📈 Development Roadmap & Metrics
 **Standalone EXE Interface:** ![Progress](https://geps.dev/progress/75)
 **Source Code Adoption Goal:** ![Clones](https://img.shields.io/badge/Goal-12%20%2F%2050%20clones-blue?style=for-the-badge&logo=github&color=blue)
+
 **Total Releases Downloads:**![Total Downloads](https://img.shields.io/github/downloads/prazlook/vortex-slicer/total?style=for-the-badge&logo=github&color=31c653)
 
 - **Original Author:** Joshua Bird ([jyjblrd](https://github.com/jyjblrd))
