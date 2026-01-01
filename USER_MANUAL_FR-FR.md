@@ -63,13 +63,18 @@ Section 4 : Maintenance et Connectivité (Usage Avancé)
 
 4.1. Entretien de la Connectique
 [à venir]
+
 Note de sécurité :
 N'essaie pas de modifier le code du slicer si tu ne sais pas ce que tu fais. Encore moins avec Gemini. Avec les droits admin, j'ai failli griller mon CPU par ne erreur de cette IA qui a pété mes limiteurs de puisssance.
 
 Garde bien en tête que :
+
 -Le matériel ne consent à rien, même s'il est réceptif.
+
 -Les courts-circuits ne sont pas ce que tu penses. Ton ordinateur n'en prend pas plus de plaisir.
+
 -Si tu as envie de ton PC parce qu'il te montre son port USB, éteins l'écran, sors de chez toi et essaie de parler à un être humain (genre une jolie meuf ou un beau mec que tu croises dans la rue)
+
 -Non, un GPU qui souffle ou un watercooling qui fuit n'est PAS une envie soudaine de toi.
 
 4.2. Résolution des problèmes d'insertion
